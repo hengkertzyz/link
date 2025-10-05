@@ -1,1 +1,1 @@
-https://orders-perry-ranges-anchor.trycloudflare.com/webhook
+https://schema-cuts-received-communications.trycloudflare.com/webhook
