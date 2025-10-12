@@ -1,1 +1,1 @@
-https://schema-cuts-received-communications.trycloudflare.com/webhook
+https://brisbane-desert-infinite-charging.trycloudflare.com/webhook
